@@ -44,7 +44,7 @@ pre {
 
 }
 .navbar-default, .navbar-static-top {
-    background-color: #4d8618;
+    background-color: #4D8618;
     border: 0px;
 }
 a.navbar-brand {
@@ -381,7 +381,7 @@ body, html {
 }
 
 a {
-    color: #8847f7;
+    color: #b042f4;
     text-decoration: underline;
 }
 
@@ -822,7 +822,7 @@ ul.nav-sidebar li.active a {
 }
 
 body {
-    background: #e1e1e1
+    background: #444
 }
 
 html.noScroll {
@@ -899,7 +899,7 @@ html, body, .st-container, .st-pusher, .st-content {
     visibility: hidden;
     width: 300px;
     height: 100%;
-    background: #e1e1e1;
+    background: #79B94C;
     -webkit-transition: all .5s;
     transition: all .5s;
     right: -600px
